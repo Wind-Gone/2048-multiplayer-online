@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ByteDance.iml" filepath="$PROJECT_DIR$/.idea/ByteDance.iml" />
       <module fileurl="file://$PROJECT_DIR$/socket/websocketdemo/demo.iml" filepath="$PROJECT_DIR$/socket/websocketdemo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/techtrainingcamp-frontend-9.iml" filepath="$PROJECT_DIR$/.idea/techtrainingcamp-frontend-9.iml" />
     </modules>
   </component>
 </project>
